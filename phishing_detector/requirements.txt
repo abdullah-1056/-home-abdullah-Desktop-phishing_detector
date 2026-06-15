@@ -1,0 +1,52 @@
+# ============================================================
+# PhishGuard AI - Requirements (no version pins)
+# Ubuntu 24.04 LTS / Python 3.12 compatible
+# torch is installed separately via CPU wheel index in start.py
+# ============================================================
+
+# Core ML / NLP
+transformers
+sentence-transformers
+tokenizers
+
+# Classical ML
+scikit-learn
+xgboost
+joblib
+
+# Numerical
+numpy
+pandas
+scipy
+
+# Web / UI
+streamlit
+plotly
+
+# URL Analysis
+tldextract
+dnspython
+
+# Email Parsing
+beautifulsoup4
+chardet
+html2text
+lxml
+
+# HTTP Requests
+requests
+urllib3
+
+# Caching & Performance
+diskcache
+cachetools
+
+# Utilities
+colorlog
+python-dotenv
+pydantic
+tqdm
+
+# Text Processing
+Levenshtein
+regex
