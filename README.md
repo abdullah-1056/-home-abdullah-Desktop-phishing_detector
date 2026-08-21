@@ -11,8 +11,8 @@ Trained on 671,000 real phishing samples.
 
 | User | OS | Setup Script | Launch Script |
 |------|----|-------------|---------------|
-| Abdullah | Ubuntu 24.04 Linux | `bash setup.sh` | `bash launch.sh` |
-| Friend | Windows 10/11 | `setup.bat` | `launch.bat` |
+| Linux | Ubuntu 24.04 Linux | `bash setup.sh` | `bash launch.sh` |
+| Windows | Windows 10/11 | `setup.bat` | `launch.bat` |
 
 > The `.sh` files are for **Linux/Mac only**.
 > The `.bat` files are for **Windows only**.
